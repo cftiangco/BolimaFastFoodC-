@@ -1,0 +1,4 @@
+IT-5018 Pancit 40.5
+IT-5037 Coffe 35
+IT-5077 Fried_Egg 25.5
+IT-3078 Juice 35.5
